@@ -1,7 +1,7 @@
 # 4705 Fall 2025 Homework 3
 ## Image Captioning with a Conditioned LSTM Generator
 
-Homework 3 for COMS W4705 Summer 2025. 
+Homework 3 for COMS W4705 Fall 2025. 
 
 This assignment requires you to complete an existing Jupyter notebook. The training process requires a GPU. You could use Google Colab to complete the assignment. You could alternatively use a third party cloud provider offering GPUs, such as lambdalabs.com or vast.ai. It should also be possible to complete the assignment on a mac with M1/M2/M3 chip.
 
