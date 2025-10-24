@@ -1,0 +1,12 @@
+[project]
+name = "4705-fa25-hw3"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.0.1",
+    "matplotlib>=3.10.7",
+    "pip>=25.2",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+]
